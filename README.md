@@ -17,9 +17,13 @@
 
 ## Screenshots
 
-| Overworld | Battle: group | Battle: action menu |
+| Overworld | Camera centred | Battle: group |
 |---|---|---|
-| ![Overworld](docs/overworld.png) | ![Battle group tab](docs/battle-group.png) | ![Battle action menu](docs/battle-pick-art.png) |
+| ![Overworld](docs/screenshots/main-01-overworld-spawn-top-left.png) | ![Camera centred](docs/screenshots/main-11-camera-center-10-10.png) | ![Battle: group](docs/screenshots/main-21-battle-opens-group-tab.png) |
+
+| Battle: pick an art | Battle: pick a target |  |
+|---|---|---|
+| ![Battle: pick an art](docs/screenshots/main-28-pick-art-heal-highlighted.png) | ![Battle: pick a target](docs/screenshots/main-32-pick-target-fast-slash-index2.png) |  |
 
 ## What this is
 
